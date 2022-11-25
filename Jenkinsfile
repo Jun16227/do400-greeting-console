@@ -27,7 +27,6 @@ pipeline{
                     oc project ghjmtz-greetings
                     oc start-build greeting-console --follow --wait
                 '''
-
             }
         }
     }
