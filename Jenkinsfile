@@ -28,6 +28,7 @@ pipeline{
                     oc start-build greeting-console --follow --wait
                 '''
 
+            }
         }
     }
-}
+｝
